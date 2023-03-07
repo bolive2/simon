@@ -1,2 +1,3 @@
 # simon
 This assigment made it seem pretty simple to get an html page set up. The syntax of an html document makes it pretty easy to follow. All of the indents make it easy to see what links and things are inside of what parts. Also, the key words used are all pretty straight forwards. Getting the page up and running is a little more confusing and difficult but definitley doable. It is pretty cool to see how this page turned out. It is nice too that it is pretty easy to edit. It would be difficult if once you uploaded the page, if you had to jump through a bunch of hoops to fix something. 
+It is really important to make sure all of your files have the proper links. All of the files follow a similar format so don't over think it if you can't find an error.
